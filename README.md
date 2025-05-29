@@ -9,7 +9,9 @@ Click here to jump to [Quality of life index by country](https://www.kaggle.com/
 ## Tableau public
 Jump to the dashboard in Tableau public [Quality of Life : What makes a high score?](https://public.tableau.com/app/profile/kaori.ikarashi/viz/QualityofLifeDashboard_17416198053680/Dashboard2)
 
-![Dashboard 2](https://github.com/user-attachments/assets/988a81b8-bf91-415f-94e7-1708a2fbd4db)
+
+![Dashboard 3](https://github.com/user-attachments/assets/c9ccea92-2ecb-4507-ace4-437eeb4cfc39)
+
 
 ## Insights
 • Countries with a high quality of life index have high purchasing power despite high living costs, which indicates high disposable income.
